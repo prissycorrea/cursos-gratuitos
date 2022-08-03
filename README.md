@@ -1,5 +1,3 @@
-Cursos gratuitos:
-
 ## 🧮 Lógica de programação/Algoritmos
 - [Algoritmos - Curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
 
@@ -115,9 +113,9 @@ Cursos gratuitos:
 ##
 
 ## Recomendação de canais com vídeos diversos sobre tecnologia
--[https://www.youtube.com/user/aluracursosonline](Alura - Dicas e bate-papo sobre tecnologia, carreira e afins)
--[https://www.youtube.com/c/MatheusBattisti](Matheus Batistti - Hora de Codar - vários cursos e vídeos de diversas tecnologias)
--[https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ](Cod3r Cursos - Aulas e cursos gratuitos de diversas tecnologias)
--[https://www.youtube.com/c/Origamid](Origamid - Vídeos e cursos sobre diversas tecnologias)
--[https://www.youtube.com/c/RocketSeat/videos](Rocketseat - muitos vídeos e cursos)
--[https://www.youtube.com/c/CursoemV%C3%ADdeo](Curso em vídeo - cursos que ensinam desde a lógica da programação até orientação a objeto)
+- [https://www.youtube.com/user/aluracursosonline](Alura - Dicas e bate-papo sobre tecnologia, carreira e afins)
+- [https://www.youtube.com/c/MatheusBattisti](Matheus Batistti - Hora de Codar - vários cursos e vídeos de diversas tecnologias)
+- [https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ](Cod3r Cursos - Aulas e cursos gratuitos de diversas tecnologias)
+- [https://www.youtube.com/c/Origamid](Origamid - Vídeos e cursos sobre diversas tecnologias)
+- [https://www.youtube.com/c/RocketSeat/videos](Rocketseat - muitos vídeos e cursos)
+- [https://www.youtube.com/c/CursoemV%C3%ADdeo](Curso em vídeo - cursos que ensinam desde a lógica da programação até orientação a objeto)
