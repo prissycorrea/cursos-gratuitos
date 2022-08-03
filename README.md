@@ -1,16 +1,16 @@
 Cursos gratuitos:
 
-## 🧮 LÓGICA DE PROGRAMAÇÃO:
+## 🧮 Lógica de programação/Algoritmos
 - [Algoritmos - Curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
 
 ##
 
-## 🎨 DESIGN THINKING:
+## 🎨 Design Thinking
 - [Design Thinking - FIAP](https://www.eucapacito.com.br/curso-ec/design-thinking/)
 
 ##
 
-## 🐱‍💻 GIT/GITHUB:
+## 🐱‍💻 Git/Github
 - [Git e Github para iniciantes - Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120522#overview)
 
 - [Github - Curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
@@ -22,7 +22,7 @@ Cursos gratuitos:
 
 ##
 
-## 💻 HTML/CSS:
+## 💻 HTML/CSS
 - [HTML e CSS básico - Rocketseat](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)
 - [HTML5 e CSS3: flexbox/responsivo - Udemy](https://www.udemy.com/course/html5-e-css3-crie-seu-primeiro-site-inclui-flexbox/)
 - [HTML5 Fundamental - Udemy](https://www.udemy.com/course/html5-fundamental-o-seu-primeiro-passo-na-web/)
@@ -49,7 +49,7 @@ Cursos gratuitos:
 
 ##
 
-## 💻 JAVASCRIPT:
+## 💻 JavaScript
 - [Javascript - Curso em video](https://www.cursoemvideo.com/curso/javascript/)
 
 - [Curso JS Moderno (ES6+) - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi)
@@ -75,21 +75,21 @@ Cursos gratuitos:
 
 ##
 
-## 💻 ORIENTAÇÃO A OBJETO:
+## 💻 Orientação a objeto
 - [PHP Poo - Curso em vídeo](https://www.cursoemvideo.com/curso/php-poo/)
 
 - [Java Poo - Curso em vídeo](https://www.cursoemvideo.com/curso/java-poo/)
 
 ##
 
-## ✨ METODOLOGIAS ÁGEIS:
+## ✨ Metodologias Ágeis
 - [DevOps Agile Culture - FIAP](https://www.eucapacito.com.br/curso-ec/devops-agile-culture/)
 
 - [Projetos ágeis com SCRUM - Dio](https://web.dio.me/course/projetos-ageis-com-scrum/learning/b042c153-fd80-469c-808a-f374629ea634/?back=/browse)
 
 ##
 
-## 💻 API:
+## 💻 API
 - [O que é API? REST e RESTful? aprenda com Star Wars](https://www.youtube.com/watch?v=tPbK3eOJLXQ&ab_channel=JamiltonDamasceno)
 
 - [O que é uma API REST? Entenda tudo sobre API, HTTP e RESTful, - Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=9SbUPqKEWcY&list=PLnDvRpP8Bnezalesxa3xu2yt-zWpsSkhu&ab_channel=MatheusBattisti-HoradeCodar)
@@ -98,14 +98,14 @@ Cursos gratuitos:
 
 ##
 
-## OUTROS:
+## Outros
 - [Organização de estudo/Anotações: Notion - Rafaella Ballerini](https://www.youtube.com/watch?v=weRgbHstLw8&t=973s&ab_channel=RafaellaBallerini)
 
 - [Como personalizar o seu perfil no Github (Readme) - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini)
 
 ##
 
-## DESAFIOS/PROJETOS:
+## Desafios/Projetos
 - [15 JavaScript Vanilla Projects (em inglês)](https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org)
 - [JavaScript real world projects (em inglês)](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j)
 - [Front-end mentor - challenges (em inglês)](https://www.frontendmentor.io/challenges)
@@ -114,7 +114,7 @@ Cursos gratuitos:
 
 ##
 
-## RECOMENDAÇÃO DE CANAIS COM VÍDEOS SOBRE TECNOLOGIA:
+## Recomendação de canais com vídeos diversos sobre tecnologia
 -[https://www.youtube.com/user/aluracursosonline](Alura - Dicas e bate-papo sobre tecnologia, carreira e afins)
 -[https://www.youtube.com/c/MatheusBattisti](Matheus Batistti - Hora de Codar - vários cursos e vídeos de diversas tecnologias)
 -[https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ](Cod3r Cursos - Aulas e cursos gratuitos de diversas tecnologias)
