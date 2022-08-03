@@ -18,6 +18,7 @@ Cursos gratuitos:
 ##
 
 ## 💻 HTML/CSS:
+- [HTML e CSS básico - Rocketseat](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)
 - [HTML5 e CSS3: flexbox/responsivo - Udemy](https://www.udemy.com/course/html5-e-css3-crie-seu-primeiro-site-inclui-flexbox/)
 - [HTML5 Fundamental - Udemy](https://www.udemy.com/course/html5-fundamental-o-seu-primeiro-passo-na-web/)
 - [CSS3 Fundamental - Udemy](https://www.udemy.com/course/css3-fundamental-estilize-seus-projetos-web/)
@@ -28,6 +29,9 @@ Cursos gratuitos:
 - [HTML5 e CSS3 - Curso em vídeo (parte 4)](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-4-de-5-40-horas/)
 
 - [HTML5 e CSS3 - Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=3a9Qd026DOI&list=PLnDvRpP8Bnez2LJGshXKtid2f-aUkFOqM&ab_channel=MatheusBattisti-HoradeCodar)
+- [HTML5 - CFB Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c)
+- [Curso completo de HTML5 - Jornada do DEV](https://jornadadodev.com.br/cursos/curso-completo-de-html5?utm_source=facebook&utm_campaign=desenvolvimento_web&utm_medium=grupos&utm_content=curso-completo-de-html-5)
+- [HTML básico em 1 hora - Jornada do DEV](https://jornadadodev.com.br/cursos/aprenda-html-em-1-hora?utm_source=facebook&utm_campaign=desenvolvimento_web&utm_medium=grupos&utm_content=aprenda-html-em-1-hora)
 
 - [Aprenda CSS Flexbox - Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=P9TrFDNwor4&ab_channel=MatheusBattisti-HoradeCodar)
 
@@ -45,6 +49,14 @@ Cursos gratuitos:
 - [Curso JS Moderno (ES6+) - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi)
 
 - [Curso de JavaScript - Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=TkD0QMyBa28&list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6&ab_channel=MatheusBattisti-HoradeCodar)
+
+- [Curso de JavaScript com jQuery](https://jornadadodev.com.br/cursos/curso-completo-de-javascript?utm_source=facebook&utm_campaign=desenvolvimento_web&utm_medium=grupos&utm_content=curso-completo-de-javascript)
+
+- [JavaScript para iniciantes](https://www.youtube.com/watch?v=i6Oi-YtXnAU&ab_channel=DevAprender)
+
+- [JavaScript de forma clara e objetiva](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
+
+- 
 
 ##
 
@@ -84,3 +96,11 @@ Cursos gratuitos:
 - [Organização de estudo/Anotações: Notion](https://www.youtube.com/watch?v=weRgbHstLw8&t=973s&ab_channel=RafaellaBallerini)
 
 - [Como personalizar o seu perfil no Github (Readme) - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini)
+
+##
+
+## DESAFIOS/PROJETOS:
+- [15 JavaScript Vanilla Projects (em inglês)](https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org)
+- [JavaScript real world projects (em inglês)](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j)
+- [Front-end mentor - challenges (em inglês)](https://www.frontendmentor.io/challenges)
+- [Criando um gerador de senha com HTML, CSS e JavaScript](https://www.youtube.com/watch?v=i6t2jaRxos4&ab_channel=Sujeitoprogramador)
