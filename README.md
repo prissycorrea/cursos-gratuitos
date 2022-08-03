@@ -14,6 +14,11 @@ Cursos gratuitos:
 - [Git e Github para iniciantes - Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120522#overview)
 
 - [Github - Curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+- [Como usar Git e Github na prática - Rafaella Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini)
+- [Github 4Noobs](https://github.com/DanielHe4rt/git4noobs)
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
+- [Github cheatsheet](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)
+- [Comandos Git](https://github.com/theandersonn/comandos-git)
 
 ##
 
@@ -40,6 +45,7 @@ Cursos gratuitos:
 - [CSS Grid Layout e Flexbox - Quando utilizar - Origamid](https://www.youtube.com/watch?v=x-4z_u8LcGc&t=1s&ab_channel=Origamid)
 
 - [Entendendo sobre position no CSS - Girl Coding](https://www.youtube.com/watch?v=Y7NeqpwLM2g&ab_channel=GirlCoding)
+- [Desvendando o CSS grid na prática - Rocketseat](https://www.youtube.com/watch?v=HN1UjzRSdBk&ab_channel=Rocketseat)
 
 ##
 
@@ -52,11 +58,11 @@ Cursos gratuitos:
 
 - [Curso de JavaScript com jQuery](https://jornadadodev.com.br/cursos/curso-completo-de-javascript?utm_source=facebook&utm_campaign=desenvolvimento_web&utm_medium=grupos&utm_content=curso-completo-de-javascript)
 
-- [JavaScript para iniciantes](https://www.youtube.com/watch?v=i6Oi-YtXnAU&ab_channel=DevAprender)
+- [JavaScript para iniciantes - DevAprender](https://www.youtube.com/watch?v=i6Oi-YtXnAU&ab_channel=DevAprender)
 
 - [JavaScript de forma clara e objetiva](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
 
-- 
+- [Manipulação do DOM com JavaScript - Rocketseat](https://www.youtube.com/watch?v=UftSB4DaRU4&ab_channel=Rocketseat)
 
 ##
 
@@ -93,7 +99,7 @@ Cursos gratuitos:
 ##
 
 ## OUTROS:
-- [Organização de estudo/Anotações: Notion](https://www.youtube.com/watch?v=weRgbHstLw8&t=973s&ab_channel=RafaellaBallerini)
+- [Organização de estudo/Anotações: Notion - Rafaella Ballerini](https://www.youtube.com/watch?v=weRgbHstLw8&t=973s&ab_channel=RafaellaBallerini)
 
 - [Como personalizar o seu perfil no Github (Readme) - Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini)
 
@@ -104,3 +110,14 @@ Cursos gratuitos:
 - [JavaScript real world projects (em inglês)](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j)
 - [Front-end mentor - challenges (em inglês)](https://www.frontendmentor.io/challenges)
 - [Criando um gerador de senha com HTML, CSS e JavaScript](https://www.youtube.com/watch?v=i6t2jaRxos4&ab_channel=Sujeitoprogramador)
+- [DevChallenge Front-end, Back-End e Mobile](https://devchallenge.vercel.app/)
+
+##
+
+## RECOMENDAÇÃO DE CANAIS COM VÍDEOS SOBRE TECNOLOGIA:
+-[https://www.youtube.com/user/aluracursosonline](Alura - Dicas e bate-papo sobre tecnologia, carreira e afins)
+-[https://www.youtube.com/c/MatheusBattisti](Matheus Batistti - Hora de Codar - vários cursos e vídeos de diversas tecnologias)
+-[https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ](Cod3r Cursos - Aulas e cursos gratuitos de diversas tecnologias)
+-[https://www.youtube.com/c/Origamid](Origamid - Vídeos e cursos sobre diversas tecnologias)
+-[https://www.youtube.com/c/RocketSeat/videos](Rocketseat - muitos vídeos e cursos)
+-[https://www.youtube.com/c/CursoemV%C3%ADdeo](Curso em vídeo - cursos que ensinam desde a lógica da programação até orientação a objeto)
