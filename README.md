@@ -1,23 +1,23 @@
 Cursos gratuitos:
 
-## LÓGICA DE PROGRAMAÇÃO:
+## 🧮 LÓGICA DE PROGRAMAÇÃO:
 - [Algoritmos - Curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
 
 ##
 
-## DESIGN THINKING:
+## 🎨 DESIGN THINKING:
 - [Design Thinking - FIAP](https://www.eucapacito.com.br/curso-ec/design-thinking/)
 
 ##
 
-## GITHUB:
+## 🐱‍💻 GIT/GITHUB:
 - [Git e Github para iniciantes - Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120522#overview)
 
 - [Github - Curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
 
 ##
 
-## HTML/CSS:
+## 💻 HTML/CSS:
 - [HTML5 e CSS3: flexbox/responsivo - Udemy](https://www.udemy.com/course/html5-e-css3-crie-seu-primeiro-site-inclui-flexbox/)
 - [HTML5 Fundamental - Udemy](https://www.udemy.com/course/html5-fundamental-o-seu-primeiro-passo-na-web/)
 - [CSS3 Fundamental - Udemy](https://www.udemy.com/course/css3-fundamental-estilize-seus-projetos-web/)
@@ -39,7 +39,7 @@ Cursos gratuitos:
 
 ##
 
-## JAVASCRIPT:
+## 💻 JAVASCRIPT:
 - [Javascript - Curso em video](https://www.cursoemvideo.com/curso/javascript/)
 
 - [Curso JS Moderno (ES6+) - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi)
@@ -48,7 +48,7 @@ Cursos gratuitos:
 
 ##
 
-## BANCO DE DADOS:
+## 💾 BANCO DE DADOS:
 - [MongoDB fundamental - Udemy](https://www.udemy.com/course/mongodb-fundamental-aprenda-o-basico-de-nosql/)
 
 - [SQL e MySQL fundamental - Udemy](https://www.udemy.com/course/sql-e-mysql-fundamental-aprenda-tudo-sobre-crud-e-joins/)
@@ -57,21 +57,21 @@ Cursos gratuitos:
 
 ##
 
-## ORIENTAÇÃO A OBJETO:
+## 💻 ORIENTAÇÃO A OBJETO:
 - [PHP Poo - Curso em vídeo](https://www.cursoemvideo.com/curso/php-poo/)
 
 - [Java Poo - Curso em vídeo](https://www.cursoemvideo.com/curso/java-poo/)
 
 ##
 
-## METODOLOGIAS ÁGEIS:
+## ✨ METODOLOGIAS ÁGEIS:
 - [DevOps Agile Culture - FIAP](https://www.eucapacito.com.br/curso-ec/devops-agile-culture/)
 
 - [Projetos ágeis com SCRUM - Dio](https://web.dio.me/course/projetos-ageis-com-scrum/learning/b042c153-fd80-469c-808a-f374629ea634/?back=/browse)
 
 ##
 
-## API:
+## 💻 API:
 - [O que é API? REST e RESTful? aprenda com Star Wars](https://www.youtube.com/watch?v=tPbK3eOJLXQ&ab_channel=JamiltonDamasceno)
 
 - [O que é uma API REST? Entenda tudo sobre API, HTTP e RESTful, - Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=9SbUPqKEWcY&list=PLnDvRpP8Bnezalesxa3xu2yt-zWpsSkhu&ab_channel=MatheusBattisti-HoradeCodar)
